@@ -1,4 +1,4 @@
-header{
+h1{
     width:100%;
     font-size:40px;
     text-align: center;
@@ -22,6 +22,7 @@ main{
 }
 
 div{
+    padding: 5px;
     border-color: whitesmoke;
     border: 1px solid whitesmoke;
     background-color: #2E4172;
@@ -37,4 +38,9 @@ img{
 footer{
     text-align:center;
     color:white;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
 }
